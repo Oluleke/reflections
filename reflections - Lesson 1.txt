@@ -1,0 +1,5 @@
+What happens when you initialize a repository?
+it creates the .git files that is used to store information about all the staged files/folders in the directory.
+
+
+Why do you need to do it? To prepare the directory for CVS usage.
